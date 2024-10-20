@@ -1,0 +1,9 @@
+Federated Learning Library/Algorithms
+https://github.com/litian96/FedProx/tree/master
+
+FedLab Home Page (Dataset Extraction and Tutorial)
+https://github.com/SMILELab-FL/FedLab/tree/master?tab=readme-ov-file
+
+Datasets with Tutorials on how to partition
+https://github.com/SMILELab-FL/FedLab/tree/master/tutorials/Datasets-DataPartitioner-tutorials
+
